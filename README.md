@@ -1,24 +1,16 @@
-# README
+<h1>
+  Message Chat
+</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 📌 Overview
+A Chat application using Ruby on Rails
 
-Things you may want to cover:
+## 💻 Technologies
+These are the technologies and patterns used to develop this application
+- [Ruby](https://www.ruby-lang.org/)
+- [Rails](https://rubyonrails.org/)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## ⚙️ Executing the Project
+To execute the project, follow the steps below:
+1. To start the application local, type "rails server".
+2. open browser and access the URL "http://127.0.0.1:3000".
