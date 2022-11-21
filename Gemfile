@@ -72,3 +72,6 @@ group :test do
 end
 
 gem "ruby-lsp", "~> 0.3.5", :group => :development
+
+gem 'semantic-ui-sass'
+gem 'jquery-rails'
