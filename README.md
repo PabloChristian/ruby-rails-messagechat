@@ -3,12 +3,13 @@
 </h1>
 
 ## 📌 Overview
-A Chat application using Ruby on Rails
+A Chat application using Ruby on Rails and Action Cable gem.
 
 ## 💻 Technologies
 These are the technologies and patterns used to develop this application
 - [Ruby](https://www.ruby-lang.org/)
 - [Rails](https://rubyonrails.org/)
+- [Action Cable](https://guides.rubyonrails.org/action_cable_overview.html)
 
 ## ⚙️ Executing the Project
 To execute the project, follow the steps below:
