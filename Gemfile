@@ -77,3 +77,5 @@ gem 'semantic-ui-sass'
 gem 'jquery-rails'
 gem 'bcrypt', '~> 3.1.7'
 gem 'hirb'
+# gem 'redis', '~> 4.0'
+# Use ActiveModel has_secure_password
