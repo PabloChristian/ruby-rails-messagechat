@@ -72,6 +72,8 @@ group :test do
 end
 
 gem "ruby-lsp", "~> 0.3.5", :group => :development
-
+gem 'turbolinks', '~> 5'
 gem 'semantic-ui-sass'
 gem 'jquery-rails'
+gem 'bcrypt', '~> 3.1.7'
+gem 'hirb'
